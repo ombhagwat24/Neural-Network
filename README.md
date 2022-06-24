@@ -5,3 +5,5 @@ The Dataset includes gas turbine parameters (such as Turbine Inlet Temperature a
 
 ### statement:
 >predicting turbine energy yield (TEY) using ambient variables as features.
+## 2.Problem Statment for Forest Fire
+PREDICT THE BURNED AREA OF FOREST FIRES WITH NEURAL NETWORKS
